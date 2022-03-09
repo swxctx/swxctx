@@ -12,6 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=swxctx&show_icons=true&include_all_commits=true&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swxctx&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-profile-trophy.vercel.app/?username=swxctx&column=6"/>
 
+---
+
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=swxctx&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swxctx&layout=compact" />
+</div>
+
+<br/>
