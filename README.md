@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 </div>
 
 ---
-<img src="https://github-profile-trophy.vercel.app/?username=swxctx&column=6"/>
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=swxctx&column=6"/>
 
 ---
 
