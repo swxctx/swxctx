@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center"> 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Swxctx">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&lines=Swxctx">
 </div>
 
 <div align="center">
