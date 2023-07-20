@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=swxctx&count_private=true&include_all_commits=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swxctx&layout=compact" />
+  <img src="https://metrics.lecoq.io/swxctx?template=classic&config.timezone=Asia%2FShanghai">
 </div>
 
 <br/>
 
 <div align="left"> 
-  <div align="center"> <img src="https://metrics.lecoq.io/swxctx?template=classic&config.timezone=Asia%2FShanghai"> </div>
   <img src="https://stats.justsong.cn/api/csdn?id=qq_28796345">
 </div>
