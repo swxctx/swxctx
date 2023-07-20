@@ -20,6 +20,10 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Vue-reseda">
   <img src="https://img.shields.io/badge/C++-gray">
   <img src="https://img.shields.io/badge/IOT-red">
+  <img src="https://img.shields.io/badge/QT-green">
+  <img src="https://img.shields.io/badge/Python-gray">
+  <img src="https://img.shields.io/badge/Linux-blue">
+  <img src="https://img.shields.io/badge/java-red">
 </div>
 
 ---
