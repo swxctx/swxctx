@@ -45,4 +45,4 @@ Here are some ideas to get you started:
 ---
 <img src="https://stats.justsong.cn/api/csdn?id=qq_28796345">
 <div align="center"> <img src="https://profile-counter.glitch.me/swxctx/count.svg" /> </div>
-<div align="center"><img src="./assets/github-contribution-grid-snake.svg" /></div>
+div align="center"><img src="https://cdn.jsdelivr.net/gh/swxctx/swxctx/assets/github-contribution-grid-snake.svg" /></div>
