@@ -25,4 +25,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-<div align="left"> <img src="https://stats.justsong.cn/api/csdn?id=qq_28796345"> </div>
+<div align="left"> 
+  <div align="center"> <img src="https://metrics.lecoq.io/swxctx?template=classic&config.timezone=Asia%2FShanghai"> </div>
+  <img src="https://stats.justsong.cn/api/csdn?id=qq_28796345">
+</div>
