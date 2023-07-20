@@ -47,4 +47,4 @@ Here are some ideas to get you started:
   <img src="https://stats.justsong.cn/api/csdn?id=qq_28796345">
 </div>
 
-<div align="center"> <img src="https://metrics.lecoq.io/swxctx?template=classic&config.timezone=Asia%2FShanghai"> </div>
+<div align="center"> <img src="https://profile-counter.glitch.me/swxctx/count.svg" /> </div>
