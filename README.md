@@ -12,9 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center"> 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Swxctx)](https://git.io/typing-svg)
+</div>
 
-<div>
+<div align="center">
   <img src="https://img.shields.io/badge/Golang-blue">
   <img src="https://img.shields.io/badge/Android-green">
   <img src="https://img.shields.io/badge/Vue-reseda">
