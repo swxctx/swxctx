@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 <div>
   <img src="https://img.shields.io/badge/Golang-blue">
   <img src="https://img.shields.io/badge/Android-green">
-  <img src="https://img.shields.io/badge/Vue-green">
-  <img src="https://img.shields.io/badge/C++-green">
-  <img src="https://img.shields.io/badge/IOT-green">
+  <img src="https://img.shields.io/badge/Vue-reseda">
+  <img src="https://img.shields.io/badge/C++-gray">
+  <img src="https://img.shields.io/badge/IOT-red">
 </div>
 
 ---
