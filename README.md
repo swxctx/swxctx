@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Swxctx)](https://git.io/typing-svg)
 
-<div align="center"> <img src="https://profile-counter.glitch.me/swxctx/count.svg" /> </div>
-
 <div>
   <img src="https://img.shields.io/badge/Golang-blue">
   <img src="https://img.shields.io/badge/Android-green">
@@ -46,3 +44,4 @@ Here are some ideas to get you started:
 
 ---
 <img src="https://stats.justsong.cn/api/csdn?id=qq_28796345">
+<div align="center"> <img src="https://profile-counter.glitch.me/swxctx/count.svg" /> </div>
