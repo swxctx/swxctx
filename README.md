@@ -35,12 +35,14 @@ Here are some ideas to get you started:
 </div>
 
 ---
+<div align="center">
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=swxctx&column=6"/>
+</div>
 
 ---
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=swxctx&count_private=true&include_all_commits=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=swxctx&count_private=true&include_all_commits=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swxctx&layout=compact" />
 </div>
 
