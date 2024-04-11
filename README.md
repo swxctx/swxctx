@@ -28,6 +28,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Python-gray">
   <img src="https://img.shields.io/badge/Linux-blue">
   <img src="https://img.shields.io/badge/Java-red">
+  <img src="https://img.shields.io/badge/Flutter-green">
+  <img src="https://img.shields.io/badge/Node.js-red">
 </div>
 
 ---
